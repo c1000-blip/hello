@@ -24,5 +24,6 @@ header {
 }
 
 .top-image {
-  size:cover;
+  display:inline-block;
+  margin: auto;
 }
