@@ -12,10 +12,11 @@ a {
 }
 
 .container {
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-image {
-  width:2200px;
+  size:cover;
 }
